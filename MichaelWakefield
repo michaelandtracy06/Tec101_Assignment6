@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+body {
+    background: royalblue;
+    font-family: Verdana;
+}  
+#content {
+    background: lightblue;
+    min-width: 200px;
+    max-width: 500px;
+    padding: 50px;
+    margin: auto;
+    margin-top: -50px;
+    line-height: 150%;
+}
+h1 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    text-align: center;
+}
+h2 {
+    font-size: 14px;
+    text-align: center;
+}
+h3 {
+    font-size: 12px;
+}
+</style>
+</head>    
+<body>
+    <div id="content">
+        <h1>Michael Wakefield</h1>
+        <h2>Senior in Greenville, South Carolina</h2>
+        
+         <p>I am a Senior at Bob Jones University studying Professional Studies with a concentration in 
+            Liberal Arts and Ministry. I work for a mortgage servicing company as a Manager of Analytics and Reporting.</p>
+         <p>
+            I attend Morningside Baptist Church in Greenville SC. My favorite thing to do is play with my kids, and you can email me  
+            <a href="mailto:mwake936@students.bju.edu">here</a>.
+         </p> 
+         <p>
+            I playing instruments and helping people solve issues.
+         </p>
+        <h3>EDUCATION</h3>
+        Professional Studies<br />
+        Bob Jones University
+    </div>
+</body>
+</html>
